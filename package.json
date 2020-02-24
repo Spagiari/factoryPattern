@@ -1,0 +1,23 @@
+{
+  "name": "factorypatternjs",
+  "version": "1.0.0",
+  "description": "Factory pattern example",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spagiari/factoryPattern.git"
+  },
+  "keywords": [
+    "factory",
+    "pattern"
+  ],
+  "author": "Eduardo Spagiari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Spagiari/factoryPattern/issues"
+  },
+  "homepage": "https://github.com/Spagiari/factoryPattern#readme"
+}
